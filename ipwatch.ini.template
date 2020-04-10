@@ -1,0 +1,13 @@
+[check]
+site: http://ipecho.net/plain
+delay_seconds: 600
+cache: ./.cache
+
+[notify]
+email:
+
+[smtp]
+host: smtp.gmail.com
+port: 587
+user: 
+pass: 
